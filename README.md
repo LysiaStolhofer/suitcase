@@ -1,26 +1,24 @@
-# Suitcase
+# Suitcase :handbag:
 
 _If you're heading on a trip, Suitcase is the only app you need. Select your destination city, specify when you are going there, and Suitcase will provide you with all the essential information you need._
 
 ## Initial Pseudocode 
-
-// The page loads with a generic background (Airport terminal backgroud)
-
-// USER'S FIRST INTERACTION
-	1. User selects TRAVEL DATE (5 Day Range)
+- The page loads with a generic background (Airport terminal backgroud)
+- USER'S FIRST INTERACTION
+	- User selects TRAVEL DATE (5 Day Range)
 		Start Date | End Date
-//After dates are selected, suitcase icon starts shaking with message to "Click Me". If user clicks icon, A destination will be slected at random.
-	2. User selects city
-	3. User hits SUBMIT button
+- After dates are selected, suitcase icon starts shaking with message to "Click Me". If user clicks icon, A destination will be slected   at random.
+	- User selects city
+	- User hits SUBMIT button
 
-// The input fields and submit button will remain visible, so the user can make further requests
-// The Suitcase app will then present 4 additional panes, e.g.
+- The input fields and submit button will remain visible, so the user can make further requests
+- The Suitcase app will then present 4 additional panes, e.g.
 	- Weather
 	- Accommodations
 	- Local
 	- Entertainment
 
-//CATEGORY BREAKDOWN
+- CATEGORY BREAKDOWN
 	- WEATHER (Open Weather API)
 		- Day of Travel
 		- 5 Day forecast
@@ -53,3 +51,4 @@ _If you're heading on a trip, Suitcase is the only app you need. Select your des
 - Firebase for persistent data storage
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Structure 
+
