@@ -52,3 +52,37 @@ _If you're heading on a trip, Suitcase is the only app you need. Select your des
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Structure 
 
+- :file_folder: assets 
+	- :file_folder: css
+		- :page_facing_up: css.md
+		- :page_facing_up: style.css
+	- :file_folder: images
+		- :page_facing_up: SuitCase.png
+		- :page_facing_up: SuitCase2.png
+		- :star: animated_favicon1.gif
+		- :page_facing_up: main-bkgd.jpg
+		- :page_facing_up: plane.png
+	- :file_folder: java
+		- :page_facing_up: apis.js
+		- :page_facing_up: background_api.js
+		- :page_facing_up: news.js
+		- :page_facing_up: news_api.js
+		- :page_facing_up: openweather_api.js
+		- :page_facing_up: seatgeek_api.js
+		- :page_facing_up: wikipedia_api.js
+		- :page_facing_up: zomato.js
+- :page_facing_up: Gameplan.md
+- :page_facing_up: NJIB_sandpit.html
+- :page_facing_up: README.md
+- :page_facing_up: backgroundAPI.html
+- :page_facing_up: demo.html
+- :page_facing_up: index.html
+- :page_facing_up: newlayout.html
+- :page_facing_up: responsive_layout.html
+- :page_facing_up: unsplash_photo_app.html
+- :page_facing_up: Gameplan.md
+- :page_facing_up: Gameplan.md
+- :page_facing_up: Gameplan.md
+- :page_facing_up: Gameplan.md
+- :page_facing_up: Gameplan.md
+
